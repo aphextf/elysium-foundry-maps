@@ -3,9 +3,9 @@
     "title": "Elysium Cartography Battlemaps",
     "description": "A module containing scenes for all maps released by Elysium Cartography, with lighting and walls set up for each.",
     "author": "Elysium Cartography",
-    "version": "1.0.15",
-    "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion":"0.8.0",
+    "version": "1.0.16",
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion":"0.9.0",
     "packs": [
                 {
                   "name": "battlemaps",
