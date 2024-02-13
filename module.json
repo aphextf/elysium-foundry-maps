@@ -8,7 +8,7 @@
 		"minimum": "11.302",
 		"verified": "11.315",
 		"maximum": "11"
-	}
+	},
     "packs": [
                 {
                   "name": "battlemaps",
