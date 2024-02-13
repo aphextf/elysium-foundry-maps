@@ -1,24 +1,29 @@
 {
-    "id": "elysium-battlemaps",
-    "title": "Elysium Cartography Battlemaps",
-    "description": "A module containing scenes for all maps released by Elysium Cartography, with lighting and walls set up for each.",
-    "author": "Elysium Cartography",
-    "version": "1.0.18",
-	"compatibility" : {
-		"minimum": "11.302",
-		"verified": "11.315",
-		"maximum": "11"
-	},
-    "packs": [
-                {
-                  "name": "battlemaps",
-                  "label": "Elysium Battlemaps",
-                  "path": "packs/elysium-battlemaps.db",
-                  "entity": "Scene",
-                  "module": "elysium-battlemaps"
-                }
-            ],
-	"download": "https://www.dropbox.com/s/2dxfhcg16pnka7w/elysium-battlemaps.zip?dl=1",
-	"manifest": "https://raw.githubusercontent.com/aphextf/elysium-foundry-maps/main/module.json",
-	"url": "https://www.patreon.com/elysiumcartography"
+  "title": "Elysium Cartography Battlemaps",
+  "description": "A module containing scenes for all maps released by Elysium Cartography, with lighting and walls set up for each.",
+  "version": "1.0.16",
+  "packs": [
+    {
+      "name": "battlemaps",
+      "label": "Elysium Battlemaps",
+      "path": "packs/elysium-battlemaps.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "download": "https://www.dropbox.com/s/2dxfhcg16pnka7w/elysium-battlemaps.zip?dl=1",
+  "manifest": "https://raw.githubusercontent.com/aphextf/elysium-foundry-maps/main/module.json",
+  "url": "https://www.patreon.com/elysiumcartography",
+  "id": "elysium-battlemaps",
+  "authors": [
+    {
+      "name": "Elysium Cartography",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.8.0",
+    "verified": "0.9.0"
   }
+}
